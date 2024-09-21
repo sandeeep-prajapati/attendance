@@ -1,0 +1,11 @@
+asgiref==3.8.1
+diff-match-patch==20230430
+Django==5.1.1
+django-import-export==4.1.1
+gunicorn==23.0.0
+import-export==0.3.1
+packaging==24.1
+sqlparse==0.5.1
+tablib==3.5.0
+tzdata==2024.1
+whitenoise==6.7.0
