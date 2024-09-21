@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-rtpm6g%(s9+u$l7ev4)^@8-oyo&)dj5!acvn$5-6t&5_q1vqm7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://attendance-steel-three.vercel.app','localhost']
 
 
 # Application definition
